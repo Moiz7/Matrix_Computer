@@ -2,6 +2,7 @@ package main.java;
 import java.util.*;
 
 public class Main {
+//My main class
 
     private static int rows1=0,rows2=0;
     private static int columns1=0,columns2=0;
